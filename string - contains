@@ -1,8 +1,8 @@
 public class Main { 
 public static void main(String[] args) { 
-String s = "vnsh"; 
-System.out.println(s.contains("vn")); 
+String s = "Ashish"; 
+System.out.println(s.contains("As")); 
+System.out.println(s.contains("hi")); 
 System.out.println(s.contains("sh")); 
-System.out.println(s.contains("an")); 
 }
 }
